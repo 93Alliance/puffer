@@ -28,7 +28,97 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              {
+                "input": "src/themes/arya/arya-blue.css",
+                "bundleName": "arya-blue",
+                "inject": false
+              },
+              {
+                "input": "src/themes/arya/arya-green.css",
+                "bundleName": "arya-green",
+                "inject": false
+              },
+              {
+                "input": "src/themes/arya/arya-orange.css",
+                "bundleName": "arya-orange",
+                "inject": false
+              },
+              {
+                "input": "src/themes/arya/arya-purple.css",
+                "bundleName": "arya-purple",
+                "inject": false
+              },
+              {
+                "input": "src/themes/fluent-light/theme.css",
+                "bundleName": "fluent-light",
+                "inject": false
+              },
+              {
+                "input": "src/themes/material/md-dark-deeppurple.css",
+                "bundleName": "md-dark-deeppurple",
+                "inject": false
+              },
+              {
+                "input": "src/themes/material/md-dark-indigo.css",
+                "bundleName": "md-dark-indigo",
+                "inject": false
+              },
+              {
+                "input": "src/themes/material/md-light-deeppurple.css",
+                "bundleName": "md-light-deeppurple",
+                "inject": false
+              },
+              {
+                "input": "src/themes/material/md-light-indigo.css",
+                "bundleName": "md-light-indigo",
+                "inject": false
+              },
+              {
+                "input": "src/themes/material/mdc-dark-deeppurple.css",
+                "bundleName": "mdc-dark-deeppurple",
+                "inject": false
+              },
+              {
+                "input": "src/themes/material/mdc-dark-indigo.css",
+                "bundleName": "mdc-dark-indigo",
+                "inject": false
+              },
+              {
+                "input": "src/themes/material/mdc-light-deeppurple.css",
+                "bundleName": "mdc-light-deeppurple",
+                "inject": false
+              },
+              {
+                "input": "src/themes/material/mdc-light-indigo.css",
+                "bundleName": "mdc-light-indigo",
+                "inject": false
+              },
+              {
+                "input": "src/themes/saga/saga-blue.css",
+                "bundleName": "saga-blue",
+                "inject": false
+              },
+              {
+                "input": "src/themes/saga/saga-green.css",
+                "bundleName": "saga-green",
+                "inject": false
+              },
+              {
+                "input": "src/themes/saga/saga-orange.css",
+                "bundleName": "saga-orange",
+                "inject": false
+              },
+              {
+                "input": "src/themes/saga/saga-purple.css",
+                "bundleName": "saga-purple",
+                "inject": false
+              },
+              {
+                "input": "src/themes/tailwind-light/theme.css",
+                "bundleName": "tailwind-light",
+                "inject": false
+              }
             ],
             "scripts": []
           },
